@@ -1,0 +1,60 @@
+body {
+  font-family: "Verdana", sans-serif
+}
+
+img {
+  width: 350px;
+  height: auto;
+}
+
+h1 {
+  color: black;
+  font-size:34px;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: 800;
+  color: darkcyan;
+}
+
+.recipe-container {
+  width: 400px;
+  background-color: whitesmoke;
+  color: black;
+  padding: 5px 30px 5px 30px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ol {
+  padding-left: 25px;
+}
+
+.nav-container {
+  text-align: center;
+}
+
+.nav-links li {
+  display: inline-block;
+  font-size: 28px;
+  padding: 20px;
+  background-color: lightblue;
+  border: 3px dotted black;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
+
+.main-title {
+  text-align: center;
+}
